@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/DEPENDS/lombok.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/DEPENDS/spigot fodastico.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/SO Auler/Desktop/SERVERS/HG #4/plugins/PrismaCommons-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,5 @@
+name: PrismaPvP
+main: com.br.gabrielsilva.prismamc.kitpvp.PrismaPvP
+author: BiielBr
+version: 0.0.1
+softdepend: [PrismaCommons]
